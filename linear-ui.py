@@ -8,7 +8,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
 import numpy as np
 
-
 dataset = pd.read_csv('data/ipl.csv')
 X = dataset.iloc[:,[3,4,7,8,9,12,13]].values
 y = dataset.iloc[:, 14].values
