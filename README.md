@@ -1,5 +1,5 @@
 # cricket-score-prediction
-First inning score predictor for IPL, ODI, T20
+First inning score predictor for IPL, ODI, T20.
 
 ## Dataset
 
@@ -17,3 +17,5 @@ First inning score predictor for IPL, ODI, T20
 * Features: [bat_team,bowl_team,runs,wickets,overs,striker,non-striker]
 * Label: [total]
 
+## Screenshot
+![screenshot](https://github.com/Akkiro45/assets/blob/master/cricket-score-prediction/screenshots/screenshot.png)
